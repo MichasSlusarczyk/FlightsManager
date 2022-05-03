@@ -1,0 +1,36 @@
+{
+  "flights": [
+    {
+      "flightFrom": "Krakow",
+      "flightDestination": "Warszawa",
+      "flightDeparture": "13:43 10.10.2019",
+      "flightArrival": "03:43 11.10.2019",
+      "Price": "122.45",
+      "flightNumber": "12332"
+    },
+    {
+      "flightFrom": "Krakow",
+      "flightDestination": "Warszawa",
+      "flightDeparture": "11:54 10.10.2019",
+      "flightArrival": "02:21 11.10.2019",
+      "Price": "111",
+      "flightNumber": "43567"
+    },
+    {
+      "flightFrom": "Krakow",
+      "flightDestination": "Szczecin",
+      "flightDeparture": "23:43 09.10.2019",
+      "flightArrival": "15:46 10.10.2019",
+      "Price": "23.45",
+      "flightNumber": "22345"
+    },
+    {
+      "flightFrom": "Szczecin",
+      "flightDestination": "Warszawa",
+      "flightDeparture": "23:43 10.10.2019",
+      "flightArrival": "01:11 11.10.2019",
+      "Price": "10.15",
+      "flightNumber": "13672"
+    }
+  ]
+}

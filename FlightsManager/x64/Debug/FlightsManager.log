@@ -1,0 +1,18 @@
+﻿  Algorithm.cpp
+D:\Michal_Slusarczyk\Studies\PK4\Project\FlightsManager\FlightsManager\Algorithm.cpp(136,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Link.cpp
+  Booking.cpp
+  Config.cpp
+  Date.cpp
+  Flight.cpp
+  LoadYaml.cpp
+  LoadJson.cpp
+  Management.cpp
+  Print.cpp
+  Save.cpp
+  Source.cpp
+  Ticket.cpp
+  User.cpp
+  Validation.cpp
+  Generating Code...
+  FlightsManager.vcxproj -> D:\Michal_Slusarczyk\Studies\PK4\Project\FlightsManager\x64\Debug\FlightsManager.exe

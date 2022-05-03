@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Booking">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAQAAAAAEACAAAAAAAAABgAAAIAgAAAAAAAAA=</HashCode>
+      <FileName>Booking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Config">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAKAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Config.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgkAAAAAAAAAAAAAAAAAACAAAQAAAABAAAiAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Link">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIIAAAAABAAAAAIAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Link.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ticket">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ticket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAiCA=</HashCode>
+      <FileName>Flight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Error" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAgAAAAAgEQAAAAgAAIAAA=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,15 @@
+Dane osobowe:
+Imie: As
+Nazwisko: Wa
+Pesel: 12345678909
+
+Informacje dotyczace lotu:
+Miejsce wylotu: Krakow
+Miejsce przylotu: Warszawa
+Data wylotu: 23:43 9.10.2019
+Data przylotu: 01:11 11.10.2019
+Czas podrozy w minutach: 1528
+Przez: Krakow->Szczecin->Warszawa
+Numery lotow: 22345, 13672Liczba przesiadek: 2
+Cena za podroz: 33.59 euro
+

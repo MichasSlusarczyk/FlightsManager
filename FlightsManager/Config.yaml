@@ -1,0 +1,5 @@
+input: "./flights.json"
+output: "./ticket.txt"
+currency: "euro"
+measure: "km"
+lastLogin: 11:02 11-02-2010
