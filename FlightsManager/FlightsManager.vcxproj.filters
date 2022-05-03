@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Algorithm.cpp">
+      <Filter>CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadJson.cpp">
+      <Filter>CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadYaml.cpp">
+      <Filter>CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="Save.cpp">
+      <Filter>CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="Validation.cpp">
+      <Filter>CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="Management.cpp">
+      <Filter>MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="Print.cpp">
+      <Filter>VIEW</Filter>
+    </ClCompile>
+    <ClCompile Include="Booking.cpp">
+      <Filter>MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="Flight.cpp">
+      <Filter>MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="Link.cpp">
+      <Filter>MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="Ticket.cpp">
+      <Filter>MODEL</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Algorithm.h">
+      <Filter>CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadJson.h">
+      <Filter>CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadYaml.h">
+      <Filter>CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="Save.h">
+      <Filter>CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="Validation.h">
+      <Filter>CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="Management.h">
+      <Filter>MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>MAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="Print.h">
+      <Filter>VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="Booking.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Flight.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Link.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="ListElement.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Ticket.h">
+      <Filter>MODEL</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagramControler.cd">
+      <Filter>CONTROLLER</Filter>
+    </None>
+    <None Include="Config.yaml">
+      <Filter>DATA</Filter>
+    </None>
+    <None Include="Flights.json">
+      <Filter>DATA</Filter>
+    </None>
+    <None Include="ClassDiagramMain.cd">
+      <Filter>MAIN</Filter>
+    </None>
+    <None Include="ClassDiagramView.cd">
+      <Filter>VIEW</Filter>
+    </None>
+    <None Include="ClassDiagramModel.cd">
+      <Filter>MODEL</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CONTROLLER">
+      <UniqueIdentifier>{0e70c615-d994-4f04-b433-dbacc7c341a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DATA">
+      <UniqueIdentifier>{deaa139d-3f3b-44c4-8e10-c0a7dab3954c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MAIN">
+      <UniqueIdentifier>{8458af00-c58b-43a8-876b-52c26816d4aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MODEL">
+      <UniqueIdentifier>{a5a0e402-d70f-4744-9cda-1f974f21fac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VIEW">
+      <UniqueIdentifier>{b2b79bd0-cf07-4da9-ae2e-9c0bcb8fdba8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

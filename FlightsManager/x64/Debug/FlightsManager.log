@@ -1,5 +1,5 @@
 ﻿  Algorithm.cpp
-D:\Michal_Slusarczyk\Studies\PK4\Project\FlightsManager\FlightsManager\Algorithm.cpp(136,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\FlightsManager\FlightsManager\Algorithm.cpp(136,46): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
   Link.cpp
   Booking.cpp
   Config.cpp
@@ -15,4 +15,5 @@ D:\Michal_Slusarczyk\Studies\PK4\Project\FlightsManager\FlightsManager\Algorithm
   User.cpp
   Validation.cpp
   Generating Code...
-  FlightsManager.vcxproj -> D:\Michal_Slusarczyk\Studies\PK4\Project\FlightsManager\x64\Debug\FlightsManager.exe
+  LINK : C:\Users\micha\Desktop\FlightsManager\x64\Debug\FlightsManager.exe not found or not built by the last incremental link; performing full link
+  FlightsManager.vcxproj -> C:\Users\micha\Desktop\FlightsManager\x64\Debug\FlightsManager.exe
